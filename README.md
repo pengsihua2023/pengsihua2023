@@ -6,15 +6,8 @@
 
   
 
-|--------------|----------------|
-| A1 | 500 (300)* | 
-| A2 | 500 (4) |
-| B | 500 (500) |
-| C | 500 (500) | 
-| D | 500 (120) |
-| F1 | 500 (60) |
 
-- [Distributed-and-parallel-training](https://github.com/pengsihua2023/Distributed-training/tree/main)  
+- [Distributed-and-parallel-training](https://github.com/pengsihua2023/Distributed-training/tree/main)  ||  - [Sapelo2](https://github.com/pengsihua2023/SAPelo2) 
 - [Sapelo2](https://github.com/pengsihua2023/SAPelo2)  
 - [OnDemand login](https://ondemand.gacrc.uga.edu/pun/sys/dashboard)  
 - [DeepSpeed-DDP](https://github.com/pengsihua2023/DeepSpeed-DDP)  
