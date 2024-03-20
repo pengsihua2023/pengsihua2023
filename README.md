@@ -4,6 +4,16 @@
 - 💞️ I’m looking to collaborate on distributed learning.
 - 📫 How to reach me: sihuapeng@gmail.com
 
+  
+
+|-------|---------|-------|---------|
+| A1 | 500 (300)* | F2 |500 (12) |
+| A2 | 500 (4) | G |500 (120) |
+| B | 500 (500) | H |500 (8) |
+| C | 500 (500) | J |500 (4) |
+| D | 500 (120) | K |500 (1)|
+| F1 | 500 (60) | L |500 (2) |  
+
 - [Distributed-and-parallel-training](https://github.com/pengsihua2023/Distributed-training/tree/main)  
 - [Sapelo2](https://github.com/pengsihua2023/SAPelo2)  
 - [OnDemand login](https://ondemand.gacrc.uga.edu/pun/sys/dashboard)  
