@@ -7,7 +7,7 @@
   
 
 
-- [Distributed-and-parallel-training](https://github.com/pengsihua2023/Distributed-training/tree/main)  ||  - [Sapelo2](https://github.com/pengsihua2023/SAPelo2) ||  - [OnDemand login](https://ondemand.gacrc.uga.edu/pun/sys/dashboard)  ||  - [DeepSpeed-DDP](https://github.com/pengsihua2023/DeepSpeed-DDP)  || - [genslm](https://github.com/pengsihua2023/genslm)   ||  - [hierarchical_diffusion_LM](https://github.com/pengsihua2023/hierarchical_diffusion_LM)   ||   - [InfluenzaGenSLM](https://github.com/pengsihua2023/InfluenzaGenSLM)   ||    - [HIV-1-M-SPBEnv](https://github.com/pengsihua2023/HIV-1-M-SPBEnv)     
+- [Distributed-and-parallel-training](https://github.com/pengsihua2023/Distributed-training/tree/main)  ||  - [Sapelo2](https://github.com/pengsihua2023/SAPelo2) ||  - [OnDemand login](https://ondemand.gacrc.uga.edu/pun/sys/dashboard)  ||  - [DeepSpeed-DDP](https://github.com/pengsihua2023/DeepSpeed-DDP)  || - [genslm](https://github.com/pengsihua2023/genslm)   ||  - [hierarchical_diffusion_LM](https://github.com/pengsihua2023/hierarchical_diffusion_LM)  
 - [Sapelo2](https://github.com/pengsihua2023/SAPelo2)  
 - [OnDemand login](https://ondemand.gacrc.uga.edu/pun/sys/dashboard)  
 - [DeepSpeed-DDP](https://github.com/pengsihua2023/DeepSpeed-DDP)  
