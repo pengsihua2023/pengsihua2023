@@ -5,7 +5,7 @@
 - 📫 How to reach me: sihuapeng@gmail.com
 
   
-
+| Subtype |Sample Size | Subtype |Sample Size |
 |-------|---------|-------|---------|
 | A1 | 500 (300)* | F2 |500 (12) |
 | A2 | 500 (4) | G |500 (120) |
