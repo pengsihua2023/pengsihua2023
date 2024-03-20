@@ -7,6 +7,7 @@
 [Distributed-and-parallel-training](https://github.com/pengsihua2023/Distributed-training/tree/main)  
 [Sapelo2](https://github.com/pengsihua2023/SAPelo2)  
 [OnDemand login](https://ondemand.gacrc.uga.edu/pun/sys/dashboard)  
+[DeepSpeed-DDP](https://github.com/pengsihua2023/DeepSpeed-DDP)  
 
 <!---
 pengsihua2023/pengsihua2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
