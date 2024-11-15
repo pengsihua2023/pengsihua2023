@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @pengsihua2023
 - 👀 I’m interested in deep learning.
-- 🌱 I’m currently learning distributed learning.
-- 💞️ I’m looking to collaborate on distributed learning.
 - 📫 How to reach me: sihuapeng@gmail.com
-
 
 ## My software/deployed model
 - [HIV-1-M-SPBEnv](https://www.hivsubclass.com/)
