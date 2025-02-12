@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pengsihua2023
 - 👀 I’m interested in deep learning.
 - 📫 How to reach me: sihuapeng@gmail.com
+- [Manuscrip traking of Group](https://github.com/PGCoE-CAPE/Manuscript-tracking)  
 
 ## My software/deployed model
 - [HIV-1-M-SPBEnv](https://www.hivsubclass.com/)
