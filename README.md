@@ -12,6 +12,10 @@
 ## My My models on Hugging Face
 - [PPPSL](https://huggingface.co/sihuapeng/PPPSL)
 - [TarPepSubLoc](https://huggingface.co/sihuapeng/TarPepSubLoc)
+
+## 武汉病毒基因组（SARS-cov-2野生型）基因组
+NCBI Nucleotide: Wuhan-Hu-1 的基因组序列可以通过 NCBI 访问，其 GenBank 登录号为 NC_045512.2。具体链接是：
+https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2
 <!---
 pengsihua2023/pengsihua2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
