@@ -14,8 +14,9 @@
 - [TarPepSubLoc](https://huggingface.co/sihuapeng/TarPepSubLoc)
 
 ## Wuhan virus genome (SARS-cov-2 wild type) 
-NCBI Nucleotide: Wuhan-Hu-1 的基因组序列可以通过 NCBI 访问，其 GenBank 登录号为 NC_045512.2。具体链接是：
-https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2
+NCBI Nucleotide: The genome sequence of Wuhan-Hu-1 can be accessed through NCBI with the GenBank accession number NC_045512.2. The specific links are:  
+https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2  
+
 <!---
 pengsihua2023/pengsihua2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
