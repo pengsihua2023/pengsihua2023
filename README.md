@@ -13,7 +13,7 @@
 - [PPPSL](https://huggingface.co/sihuapeng/PPPSL)
 - [TarPepSubLoc](https://huggingface.co/sihuapeng/TarPepSubLoc)
 
-## 武汉病毒基因组（SARS-cov-2野生型）基因组
+## Wuhan virus genome (SARS-cov-2 wild type) genome
 NCBI Nucleotide: Wuhan-Hu-1 的基因组序列可以通过 NCBI 访问，其 GenBank 登录号为 NC_045512.2。具体链接是：
 https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2
 <!---
