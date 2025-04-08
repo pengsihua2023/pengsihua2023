@@ -31,6 +31,9 @@ https://www.ncbi.nlm.nih.gov/genomes/FLU/Database/nph-select.cgi?go=database
 ## sequence-and-text-precessing
 https://github.com/pengsihua2023/sequence-and-text-precessing  
 
+## Model deploy issue
+https://github.com/pengsihua2023/model-deploy-issues  
+
 <!---
 pengsihua2023/pengsihua2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
