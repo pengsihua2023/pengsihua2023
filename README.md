@@ -28,7 +28,8 @@ https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/
 
 ## Influenza Virus Resource
 https://www.ncbi.nlm.nih.gov/genomes/FLU/Database/nph-select.cgi?go=database  
-
+## sequence-and-text-precessing
+https://github.com/pengsihua2023/sequence-and-text-precessing  
 
 <!---
 pengsihua2023/pengsihua2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
