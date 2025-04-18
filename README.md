@@ -37,6 +37,10 @@ https://github.com/pengsihua2023/model-deploy-issues
 ## Zenodo
 https://zenodo.org/   
 
+## ESM2 Long
+https://huggingface.co/gabrielbianchin  
+https://huggingface.co/gabrielbianchin/esm2_t6_long  
+
 <!---
 pengsihua2023/pengsihua2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
