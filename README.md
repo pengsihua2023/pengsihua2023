@@ -50,6 +50,11 @@ https://huggingface.co/gabrielbianchin/esm2_t6_long
 ## Mermaid
 https://www.mermaidchart.com/  
 
+## AutoGen Studio启动
+在PowerShell 里启动：  
+autogenstudio ui --port 8081  
+目录：D：/autogenstudio_env  
+
 <!---
 pengsihua2023/pengsihua2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
